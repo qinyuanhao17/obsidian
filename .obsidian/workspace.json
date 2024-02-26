@@ -11,8 +11,12 @@
             "id": "bb89ea45b9f48c00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "experiment_notes/pulse_streamer/Installation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "experiment_notes/pulse_streamer/Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "experiment_notes/pulse_streamer/Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "experiment_notes/pulse_streamer/Installation.md"
+              }
             }
           }
         ]
@@ -140,6 +148,10 @@
   },
   "active": "bb89ea45b9f48c00",
   "lastOpenFiles": [
+    "experiment_notes/pulse_streamer/attachments/Pasted image 20240226152039.png",
+    "experiment_notes/pulse_streamer/attachments/Pasted image 20240226151928.png",
+    "experiment_notes/pulse_streamer/stream.md",
+    "experiment_notes/pulse_streamer/Installation.md",
     "experiment_notes/pulse_streamer/attachments/Pasted image 20240220162608.png",
     "experiment_notes/time_tagger/attachments/Pasted image 20240220171102.png",
     "experiment_notes/time_tagger/attachments/Pasted image 20240220171054.png",
@@ -147,7 +159,6 @@
     "experiment_notes/time_tagger/attachments/Pasted image 20240220155002.png",
     "experiment_notes/time_tagger/attachments/Pasted image 20240220154948.png",
     "experiment_notes/time_tagger/attachments/Pasted image 20240220154732.png",
-    "experiment_notes/pulse_streamer/stream.md",
     "experiment_notes/pulse_streamer/attachments",
     "experiment_notes/time_tagger/TimeDifference.md",
     "experiment_notes/time_tagger/attachments",
@@ -156,8 +167,6 @@
     "experiment_notes",
     "course_notes/python_thread/attachments/Pasted image 20240221175716.png",
     "course_notes/python_thread/attachments/Pasted image 20240221175713.png",
-    "course_notes/python_thread/attachments/Pasted image 20240221175706.png",
-    "course_notes/pythonic/attachments/Pasted image 20240220212246.png",
     "course_notes/python_thread/添加线程 add thread.md",
     "course_notes/python_thread/attachments",
     "course_notes/pythonic/字典模拟switch-case.md",
