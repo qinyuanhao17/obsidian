@@ -11,40 +11,11 @@
             "id": "bb89ea45b9f48c00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "experiment_notes/time_tagger/TimeDifference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2682192822b1beca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "course_notes/pythonic/字典模拟switch-case.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8cfc493a05db112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "course_notes/pyqtgraph/infiniteLine.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "course_notes/pyqtgraph/infiniteLine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "course_notes/pyqtgraph/infiniteLine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "course_notes/pyqtgraph/infiniteLine.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,36 +138,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e8cfc493a05db112",
+  "active": "bb89ea45b9f48c00",
   "lastOpenFiles": [
-    "course_notes/pyqtgraph/attachments/Pasted image 20240226093100.png",
-    "course_notes/pyqtgraph/attachments",
-    "course_notes/pyqtgraph/PlotWidget.md",
-    "course_notes/pyqtgraph/infiniteLine.md",
-    "course_notes/python_thread/添加线程 add thread.md",
-    "course_notes/pyqtgraph",
-    "course_notes/python_thread/attachments/Pasted image 20240221175716.png",
-    "course_notes/python_thread/attachments/Pasted image 20240221175713.png",
-    "course_notes/python_thread/attachments/Pasted image 20240221175706.png",
-    "course_notes/python_thread/attachments",
-    "course_notes/pythonic/字典模拟switch-case.md",
-    "course_notes/python_thread",
-    "course_notes/pythonic/使用Struct创建序列化的C结构体.md",
-    "course_notes/pythonic/attachments/Pasted image 20240220212246.png",
-    "course_notes/pythonic/attachments",
-    "experiment_notes/time_tagger/TimeDifference.md",
-    "course_notes/pythonic",
-    "未命名",
+    "experiment_notes/pulse_streamer/attachments/Pasted image 20240220162608.png",
     "experiment_notes/time_tagger/attachments/Pasted image 20240220171102.png",
     "experiment_notes/time_tagger/attachments/Pasted image 20240220171054.png",
     "experiment_notes/time_tagger/attachments/Pasted image 20240220171032.png",
-    "experiment_notes/pulse_streamer/stream.md",
-    "experiment_notes/pulse_streamer/attachments/Pasted image 20240220162608.png",
-    "experiment_notes/pulse_streamer/attachments",
-    "attachments/Pasted image 20240220162520.png",
-    "attachments",
-    "experiment_notes/pulse_streamer",
     "experiment_notes/time_tagger/attachments/Pasted image 20240220155002.png",
+    "experiment_notes/time_tagger/attachments/Pasted image 20240220154948.png",
+    "experiment_notes/time_tagger/attachments/Pasted image 20240220154732.png",
+    "experiment_notes/pulse_streamer/stream.md",
+    "experiment_notes/pulse_streamer/attachments",
+    "experiment_notes/time_tagger/TimeDifference.md",
+    "experiment_notes/time_tagger/attachments",
+    "experiment_notes/pulse_streamer",
+    "experiment_notes/time_tagger",
+    "experiment_notes",
+    "course_notes/python_thread/attachments/Pasted image 20240221175716.png",
+    "course_notes/python_thread/attachments/Pasted image 20240221175713.png",
+    "course_notes/python_thread/attachments/Pasted image 20240221175706.png",
+    "course_notes/pythonic/attachments/Pasted image 20240220212246.png",
+    "course_notes/python_thread/添加线程 add thread.md",
+    "course_notes/python_thread/attachments",
+    "course_notes/pythonic/字典模拟switch-case.md",
+    "course_notes/pythonic/使用Struct创建序列化的C结构体.md",
+    "course_notes/pythonic/attachments",
+    "course_notes/pyqtgraph/PlotWidget.md",
+    "course_notes/pyqtgraph/infiniteLine.md",
+    "course_notes/pyqtgraph/attachments",
+    "course_notes/python_thread",
+    "course_notes/pythonic",
     "Welcome.md"
   ]
 }
