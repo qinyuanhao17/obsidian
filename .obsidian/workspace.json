@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "course_notes/pyqtgraph/infiniteLine.md",
+                "file": "experiment_notes/nidaqmx/nidaqmx.task.ci_channel.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "course_notes/pyqtgraph/infiniteLine.md",
+                "file": "experiment_notes/nidaqmx/nidaqmx.task.ci_channel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "course_notes/pyqtgraph/infiniteLine.md",
+                "file": "experiment_notes/nidaqmx/nidaqmx.task.ci_channel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "course_notes/pyqtgraph/infiniteLine.md"
+                "file": "experiment_notes/nidaqmx/nidaqmx.task.ci_channel.md"
               }
             }
           }
@@ -173,34 +173,36 @@
   },
   "active": "e8cfc493a05db112",
   "lastOpenFiles": [
-    "course_notes/pyqtgraph/attachments/Pasted image 20240226093100.png",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240227135729.png",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240227135712.png",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240227135500.png",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240227135452.png",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240227134207.png",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240227134050.png",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240227133845.png",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240227133221.png",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240227133022.png",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240227132837.png",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240227132558.png",
+    "experiment_notes/nidaqmx/attachments",
+    "course_notes/pyqtgraph/infiniteLine.md",
+    "experiment_notes/nidaqmx/nidaqmx.task.ci_channel.md",
+    "experiment_notes/nidaqmx",
+    "experiment_notes/未命名.md",
     "course_notes/pyqtgraph/attachments",
     "course_notes/pyqtgraph/PlotWidget.md",
-    "course_notes/pyqtgraph/infiniteLine.md",
     "course_notes/python_thread/添加线程 add thread.md",
     "course_notes/pyqtgraph",
-    "course_notes/python_thread/attachments/Pasted image 20240221175716.png",
-    "course_notes/python_thread/attachments/Pasted image 20240221175713.png",
-    "course_notes/python_thread/attachments/Pasted image 20240221175706.png",
     "course_notes/python_thread/attachments",
     "course_notes/pythonic/字典模拟switch-case.md",
     "course_notes/python_thread",
     "course_notes/pythonic/使用Struct创建序列化的C结构体.md",
-    "course_notes/pythonic/attachments/Pasted image 20240220212246.png",
     "course_notes/pythonic/attachments",
     "experiment_notes/time_tagger/TimeDifference.md",
     "course_notes/pythonic",
     "未命名",
-    "experiment_notes/time_tagger/attachments/Pasted image 20240220171102.png",
-    "experiment_notes/time_tagger/attachments/Pasted image 20240220171054.png",
-    "experiment_notes/time_tagger/attachments/Pasted image 20240220171032.png",
     "experiment_notes/pulse_streamer/stream.md",
-    "experiment_notes/pulse_streamer/attachments/Pasted image 20240220162608.png",
     "experiment_notes/pulse_streamer/attachments",
-    "attachments/Pasted image 20240220162520.png",
-    "attachments",
-    "experiment_notes/pulse_streamer",
-    "experiment_notes/time_tagger/attachments/Pasted image 20240220155002.png",
     "Welcome.md"
   ]
 }
