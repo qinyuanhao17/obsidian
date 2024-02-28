@@ -8,7 +8,7 @@ channel = task.ci_channels.add_ci_count_edges_chan(
 
     counter='Dev2\ctr0',
 
-    ddge=Edge.RISING,
+    edge=Edge.RISING,
 
     count_direction=CountDirection.COUNT_UP
 
