@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "b183dc0f204d022d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fdb9b2332364210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "597cd642dccc61df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "experiment_logs/test_cw_odmr_20240302/Change MW Power.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af914a0c91c3977a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f46c5c92dd7e02e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fbe52bbbf5ed105",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7c513f729031dc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18b41f59968c720a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08b53db24bc7dfab",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce4a1f5a38ee1d99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03c842e1d030fa8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "experiment_logs/test_cw_odmr_20240302/Change MW Power.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "421a6f0ad2419e9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "experiment_logs/test_cw_odmr_20240302/Change MW Power.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "880c25ea972c7d11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9718a8b5a99fe740",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "experiment_logs/test_cw_odmr_20240302/Change MW Power.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "597cd642dccc61df",
+  "lastOpenFiles": [
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302164322.png",
+    "experiment_logs/test_cw_odmr_20240302/mwPower-6dBm_counts200W_sample1000_repeat1.csv",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302163208.png",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302162124.png",
+    "experiment_logs/test_cw_odmr_20240302/mwPower9dBm_counts200W_sample1000_repeat1.csv",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302160718.png",
+    "course_notes/create_python_short_cuts/Create windows shortcuts for a python code.md",
+    "experiment_logs/test_cw_odmr_20240302/Effect of Laser power on Contrast.md",
+    "course_notes/create_python_short_cuts",
+    "course_notes/未命名.md",
+    "experiment_logs/test_cw_odmr_20240302/Change MW Power.md",
+    "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts800W_sample1000_repeat1.csv",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302154742.png",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302153510.png",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302152357.png",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302151007.png",
+    "experiment_logs/test_cw_odmr_20240302/attachments",
+    "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts300W_sample1000_repeat1.csv",
+    "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts200W_sample1000_repeat1.csv",
+    "experiment_notes/nidaqmx/read_many_sample_uint32.md",
+    "experiment_logs/nidaq odmr.md",
+    "experiment_logs/test_cw_odmr_20240302/signal_minus_reference_mwPower5dBm.csv",
+    "experiment_logs/test_cw_odmr_20240302",
+    "experiment_logs/New folder",
+    "experiment_notes/nidaqmx/nidaqmx.task.ci_channel.md",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240228142659.png",
+    "experiment_notes/nidaqmx/nidaqmx.task.timing.md",
+    "experiment_notes/nidaqmx/nidaqmx.task.trigger.md",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240227151609.png",
+    "experiment_notes/nidaqmx/attachments/Pasted image 20240227151600.png"
+  ]
+}
