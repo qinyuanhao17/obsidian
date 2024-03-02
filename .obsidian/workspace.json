@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "597cd642dccc61df",
+  "active": "9fbe52bbbf5ed105",
   "lastOpenFiles": [
+    "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts200W_sample1000_repeat1_daq_wait3.5ms.csv",
     "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302220332.png",
     "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302210447.png",
     "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302203140.png",
@@ -165,7 +166,6 @@
     "experiment_logs/test_cw_odmr_20240302/Effect of Laser power on Contrast.md",
     "experiment_logs/test_cw_odmr_20240302/Change MW Power.md",
     "experiment_logs/test_cw_odmr_20240302/sinal without reference.md",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302171532.png",
     "experiment_logs/test_cw_odmr_20240302/signal_mwPower5dBm_counts200W_sample1000_repeat1.csv",
     "experiment_logs/test_cw_odmr_20240302/mwPower-21dBm_counts200W_sample1000_repeat1.csv",
     "experiment_logs/test_cw_odmr_20240302/mwPower-6dBm_counts200W_sample1000_repeat1.csv",
