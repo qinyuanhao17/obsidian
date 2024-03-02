@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experiment_logs/test_cw_odmr_20240302/Change MW Power.md",
+                "file": "experiment_logs/test_cw_odmr_20240302/change daq_high.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "experiment_logs/test_cw_odmr_20240302/Change MW Power.md",
+                "file": "experiment_logs/test_cw_odmr_20240302/change daq_high.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "experiment_logs/test_cw_odmr_20240302/Change MW Power.md",
+                "file": "experiment_logs/test_cw_odmr_20240302/change daq_high.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "experiment_logs/test_cw_odmr_20240302/Change MW Power.md"
+                "file": "experiment_logs/test_cw_odmr_20240302/change daq_high.md"
               }
             }
           }
@@ -148,35 +148,38 @@
   },
   "active": "597cd642dccc61df",
   "lastOpenFiles": [
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302170104.png",
-    "experiment_logs/test_cw_odmr_20240302/mwPower-21dBm_counts200W_sample1000_repeat1.csv",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302164322.png",
-    "experiment_logs/test_cw_odmr_20240302/mwPower-6dBm_counts200W_sample1000_repeat1.csv",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302163208.png",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302162124.png",
-    "experiment_logs/test_cw_odmr_20240302/mwPower9dBm_counts200W_sample1000_repeat1.csv",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302160718.png",
-    "course_notes/create_python_short_cuts/Create windows shortcuts for a python code.md",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302220332.png",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302210447.png",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302203140.png",
+    "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts200W_sample1000_repeat1_daq_wait1ms.csv",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302200811.png",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302192346.png",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302191205.png",
+    "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts200W_sample1000_repeat1_daq_wait300us.csv",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302175501.png",
+    "experiment_logs/test_cw_odmr_20240302/change daq_wait.md",
+    "experiment_logs/test_cw_odmr_20240302/change daq_high.md",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302174457.png",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302173804.png",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302173138.png",
     "experiment_logs/test_cw_odmr_20240302/Effect of Laser power on Contrast.md",
+    "experiment_logs/test_cw_odmr_20240302/Change MW Power.md",
+    "experiment_logs/test_cw_odmr_20240302/sinal without reference.md",
+    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302171532.png",
+    "experiment_logs/test_cw_odmr_20240302/signal_mwPower5dBm_counts200W_sample1000_repeat1.csv",
+    "experiment_logs/test_cw_odmr_20240302/mwPower-21dBm_counts200W_sample1000_repeat1.csv",
+    "experiment_logs/test_cw_odmr_20240302/mwPower-6dBm_counts200W_sample1000_repeat1.csv",
+    "experiment_logs/test_cw_odmr_20240302/mwPower9dBm_counts200W_sample1000_repeat1.csv",
+    "course_notes/create_python_short_cuts/Create windows shortcuts for a python code.md",
     "course_notes/create_python_short_cuts",
     "course_notes/未命名.md",
-    "experiment_logs/test_cw_odmr_20240302/Change MW Power.md",
     "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts800W_sample1000_repeat1.csv",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302154742.png",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302153510.png",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302152357.png",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302151007.png",
     "experiment_logs/test_cw_odmr_20240302/attachments",
     "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts300W_sample1000_repeat1.csv",
-    "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts200W_sample1000_repeat1.csv",
     "experiment_notes/nidaqmx/read_many_sample_uint32.md",
     "experiment_logs/nidaq odmr.md",
-    "experiment_logs/test_cw_odmr_20240302/signal_minus_reference_mwPower5dBm.csv",
-    "experiment_logs/test_cw_odmr_20240302",
     "experiment_notes/nidaqmx/nidaqmx.task.ci_channel.md",
-    "experiment_notes/nidaqmx/attachments/Pasted image 20240228142659.png",
     "experiment_notes/nidaqmx/nidaqmx.task.timing.md",
-    "experiment_notes/nidaqmx/nidaqmx.task.trigger.md",
-    "experiment_notes/nidaqmx/attachments/Pasted image 20240227151609.png"
+    "experiment_notes/nidaqmx/nidaqmx.task.trigger.md"
   ]
 }
