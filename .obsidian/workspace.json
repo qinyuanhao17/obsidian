@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experiment_logs/test_cw_odmr_20240302/change daq_high.md",
+                "file": "experiment_logs/20240304_applying_magnets/magnets added, test polarization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "experiment_logs/test_cw_odmr_20240302/change daq_high.md",
+                "file": "experiment_logs/20240304_applying_magnets/magnets added, test polarization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "experiment_logs/test_cw_odmr_20240302/change daq_high.md",
+                "file": "experiment_logs/20240304_applying_magnets/magnets added, test polarization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "experiment_logs/test_cw_odmr_20240302/change daq_high.md"
+                "file": "experiment_logs/20240304_applying_magnets/magnets added, test polarization.md"
               }
             }
           }
@@ -146,36 +146,41 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9fbe52bbbf5ed105",
+  "active": "597cd642dccc61df",
   "lastOpenFiles": [
-    "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts200W_sample1000_repeat1_daq_wait3.5ms.csv",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302220332.png",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302210447.png",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302203140.png",
-    "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts200W_sample1000_repeat1_daq_wait1ms.csv",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302200811.png",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302192346.png",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302191205.png",
-    "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts200W_sample1000_repeat1_daq_wait300us.csv",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302175501.png",
-    "experiment_logs/test_cw_odmr_20240302/change daq_wait.md",
+    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304225048.png",
+    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304223952.png",
+    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304222323.png",
+    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304221023.png",
+    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304214624.png",
+    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304213418.png",
+    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304211308.png",
+    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304205850.png",
+    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304204609.png",
+    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304203647.png",
+    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304201927.png",
+    "experiment_logs/20240304_applying_magnets/4 magnets added.md",
+    "experiment_logs/20240304_applying_magnets/magnets added, test polarization.md",
+    "experiment_logs/20240304_applying_magnets/mwPower5dBm_counts200W_sample500_repeat1_polarization0_magnetpos0.csv",
+    "experiment_logs/20240304_applying_magnets/attachments",
     "experiment_logs/test_cw_odmr_20240302/change daq_high.md",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302174457.png",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302173804.png",
-    "experiment_logs/test_cw_odmr_20240302/attachments/Pasted image 20240302173138.png",
+    "experiment_logs/20240304_applying_magnets",
+    "experiment_logs/20240304_test_pump_polarized_cw_odmr/applying magnets.md",
+    "experiment_logs/test_cw_odmr_20240302/change daq_wait.md",
+    "experiment_logs/20240304_test_pump_polarized_cw_odmr/change polarization.md",
+    "experiment_logs/20240304_test_pump_polarized_cw_odmr/mwPower5dBm_counts200W_sample500_repeat1_polarization180.csv",
     "experiment_logs/test_cw_odmr_20240302/Effect of Laser power on Contrast.md",
-    "experiment_logs/test_cw_odmr_20240302/Change MW Power.md",
     "experiment_logs/test_cw_odmr_20240302/sinal without reference.md",
-    "experiment_logs/test_cw_odmr_20240302/signal_mwPower5dBm_counts200W_sample1000_repeat1.csv",
-    "experiment_logs/test_cw_odmr_20240302/mwPower-21dBm_counts200W_sample1000_repeat1.csv",
-    "experiment_logs/test_cw_odmr_20240302/mwPower-6dBm_counts200W_sample1000_repeat1.csv",
-    "experiment_logs/test_cw_odmr_20240302/mwPower9dBm_counts200W_sample1000_repeat1.csv",
+    "experiment_logs/20240304_test_pump_polarized_cw_odmr/mwPower5dBm_counts200W_sample500_repeat1_polarization150.csv",
+    "experiment_logs/20240304_test_pump_polarized_cw_odmr/mwPower5dBm_counts200W_sample500_repeat1_polarization120.csv",
+    "experiment_logs/20240304_test_pump_polarized_cw_odmr/mwPower5dBm_counts200W_sample500_repeat1_polarization90.csv",
+    "experiment_logs/20240304_test_pump_polarized_cw_odmr/mwPower5dBm_counts200W_sample500_repeat1_polarization60.csv",
+    "experiment_logs/20240304_test_pump_polarized_cw_odmr/mwPower5dBm_counts200W_sample500_repeat1_polarization30.csv",
+    "experiment_logs/20240304_test_pump_polarized_cw_odmr/attachments",
+    "experiment_logs/未命名.md",
+    "experiment_logs/test_cw_odmr_20240302/Change MW Power.md",
     "course_notes/create_python_short_cuts/Create windows shortcuts for a python code.md",
-    "course_notes/create_python_short_cuts",
     "course_notes/未命名.md",
-    "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts800W_sample1000_repeat1.csv",
-    "experiment_logs/test_cw_odmr_20240302/attachments",
-    "experiment_logs/test_cw_odmr_20240302/mwPower5dBm_counts300W_sample1000_repeat1.csv",
     "experiment_notes/nidaqmx/read_many_sample_uint32.md",
     "experiment_logs/nidaq odmr.md",
     "experiment_notes/nidaqmx/nidaqmx.task.ci_channel.md",
