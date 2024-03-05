@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experiment_logs/20240304_applying_magnets/magnets added, test polarization.md",
+                "file": "experiment_logs/20240304_applying_magnets/4 magnets added.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "experiment_logs/20240304_applying_magnets/magnets added, test polarization.md",
+                "file": "experiment_logs/20240304_applying_magnets/4 magnets added.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "experiment_logs/20240304_applying_magnets/magnets added, test polarization.md",
+                "file": "experiment_logs/20240304_applying_magnets/4 magnets added.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "experiment_logs/20240304_applying_magnets/magnets added, test polarization.md"
+                "file": "experiment_logs/20240304_applying_magnets/4 magnets added.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "597cd642dccc61df",
   "lastOpenFiles": [
+    "experiment_logs/20240304_applying_magnets/magnets added, test polarization.md",
+    "experiment_logs/20240304_applying_magnets/4 magnets added.md",
+    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304195518.png",
+    "experiment_logs/20240304_test_pump_polarized_cw_odmr/change polarization.md",
     "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304225048.png",
     "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304223952.png",
     "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304222323.png",
@@ -157,17 +161,12 @@
     "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304211308.png",
     "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304205850.png",
     "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304204609.png",
-    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304203647.png",
-    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304201927.png",
-    "experiment_logs/20240304_applying_magnets/4 magnets added.md",
-    "experiment_logs/20240304_applying_magnets/magnets added, test polarization.md",
     "experiment_logs/20240304_applying_magnets/mwPower5dBm_counts200W_sample500_repeat1_polarization0_magnetpos0.csv",
     "experiment_logs/20240304_applying_magnets/attachments",
     "experiment_logs/test_cw_odmr_20240302/change daq_high.md",
     "experiment_logs/20240304_applying_magnets",
     "experiment_logs/20240304_test_pump_polarized_cw_odmr/applying magnets.md",
     "experiment_logs/test_cw_odmr_20240302/change daq_wait.md",
-    "experiment_logs/20240304_test_pump_polarized_cw_odmr/change polarization.md",
     "experiment_logs/20240304_test_pump_polarized_cw_odmr/mwPower5dBm_counts200W_sample500_repeat1_polarization180.csv",
     "experiment_logs/test_cw_odmr_20240302/Effect of Laser power on Contrast.md",
     "experiment_logs/test_cw_odmr_20240302/sinal without reference.md",
