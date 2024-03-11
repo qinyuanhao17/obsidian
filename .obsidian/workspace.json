@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experiment_logs/20240304_applying_magnets/4 magnets added.md",
+                "file": "course_notes/digital_image_processing/Chapter2 Digital Image Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "experiment_logs/20240304_applying_magnets/4 magnets added.md",
+                "file": "course_notes/digital_image_processing/Chapter2 Digital Image Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "experiment_logs/20240304_applying_magnets/4 magnets added.md",
+                "file": "course_notes/digital_image_processing/Chapter2 Digital Image Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "experiment_logs/20240304_applying_magnets/4 magnets added.md"
+                "file": "course_notes/digital_image_processing/Chapter2 Digital Image Fundamentals.md"
               }
             }
           }
@@ -148,19 +148,23 @@
   },
   "active": "597cd642dccc61df",
   "lastOpenFiles": [
-    "experiment_logs/20240304_applying_magnets/magnets added, test polarization.md",
+    "course_notes/digital_image_processing/attachments/Pasted image 20240311105527.png",
+    "course_notes/digital_image_processing/attachments/Pasted image 20240311101914.png",
+    "course_notes/digital_image_processing/attachments/Pasted image 20240311101854.png",
+    "course_notes/digital_image_processing/attachments/Pasted image 20240308153704.png",
+    "course_notes/digital_image_processing/attachments/Pasted image 20240308153543.png",
+    "course_notes/digital_image_processing/attachments/Pasted image 20240308153528.png",
+    "course_notes/digital_image_processing/attachments/Pasted image 20240308153509.png",
+    "course_notes/digital_image_processing/attachments/Pasted image 20240308153450.png",
+    "course_notes/digital_image_processing/attachments/Pasted image 20240308153007.png",
+    "course_notes/digital_image_processing/attachments/Pasted image 20240308152837.png",
+    "course_notes/digital_image_processing/attachments/Pasted image 20240308150637.png",
+    "course_notes/digital_image_processing/attachments",
     "experiment_logs/20240304_applying_magnets/4 magnets added.md",
-    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304195518.png",
+    "course_notes/digital_image_processing/Chapter2 Digital Image Fundamentals.md",
+    "course_notes/digital_image_processing",
+    "experiment_logs/20240304_applying_magnets/magnets added, test polarization.md",
     "experiment_logs/20240304_test_pump_polarized_cw_odmr/change polarization.md",
-    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304225048.png",
-    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304223952.png",
-    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304222323.png",
-    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304221023.png",
-    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304214624.png",
-    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304213418.png",
-    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304211308.png",
-    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304205850.png",
-    "experiment_logs/20240304_applying_magnets/attachments/Pasted image 20240304204609.png",
     "experiment_logs/20240304_applying_magnets/mwPower5dBm_counts200W_sample500_repeat1_polarization0_magnetpos0.csv",
     "experiment_logs/20240304_applying_magnets/attachments",
     "experiment_logs/test_cw_odmr_20240302/change daq_high.md",
@@ -174,8 +178,6 @@
     "experiment_logs/20240304_test_pump_polarized_cw_odmr/mwPower5dBm_counts200W_sample500_repeat1_polarization120.csv",
     "experiment_logs/20240304_test_pump_polarized_cw_odmr/mwPower5dBm_counts200W_sample500_repeat1_polarization90.csv",
     "experiment_logs/20240304_test_pump_polarized_cw_odmr/mwPower5dBm_counts200W_sample500_repeat1_polarization60.csv",
-    "experiment_logs/20240304_test_pump_polarized_cw_odmr/mwPower5dBm_counts200W_sample500_repeat1_polarization30.csv",
-    "experiment_logs/20240304_test_pump_polarized_cw_odmr/attachments",
     "experiment_logs/未命名.md",
     "experiment_logs/test_cw_odmr_20240302/Change MW Power.md",
     "course_notes/create_python_short_cuts/Create windows shortcuts for a python code.md",
